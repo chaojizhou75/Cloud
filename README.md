@@ -75,6 +75,12 @@ aes-256-gcm
 # 接下来需要安装nodejs和npm (老方法 一行一行复制粘贴)
 "curl https://raw.githubusercontent.com/creationix/nvm/v0.13.1/install.sh | bash"
 
+如果上面那条执行时出现错误 就是用这条 
+
+"wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.13.1/install.sh | bash"
+
+
+
 "source ~/.bash_profile"
 
 "nvm install v9.8.0"
