@@ -128,7 +128,9 @@ aes-256-gcm
 
 # 最后搭建雷达.
 首先在你的服务器终端   
-输入 "yum install git" 
+输入 
+
+"yum install git" 
  
 "git clone https://github.com/XiaohuaCN/Cloud-Radar"
 
