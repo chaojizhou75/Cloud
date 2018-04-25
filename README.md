@@ -45,7 +45,9 @@ Xshell 5下载:https://share.weiyun.com/52F9uF9
 "chmod +x shadowsocks-all.sh"
 
 "./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log"
+
 输入完这行代码后 会让你选择 安装SS还是SSR 看你自己需求
+
 如果要简单 就选默认 第一个Shadowsocks 你可以可以直接按回车 默认就是第一个
 
 之后会让你设置一个SS连接的密码password: 自己设置一个密码
@@ -54,9 +56,16 @@ Xshell 5下载:https://share.weiyun.com/52F9uF9
 然后会让你设置一个端口 port  (1~65535 )自己选一个
 回车
 
-最后就是设置加密协议 这个默认就好直接回车aes-256-gcm
+最后就是设置加密协议 这个默认就好直接回车
+
+aes-256-gcm
+然后在回车
+
+
 之后等待他自己安装完成  
+
 完成后会出现红色字样 
+
 就是你搭建的SS服务器节点信息 IP 密码 端口 加密协议 等.
 
 # 以上是搭建SS代理的教程
