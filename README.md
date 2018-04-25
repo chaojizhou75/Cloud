@@ -18,13 +18,17 @@
 
 的时候就代表可以进行下一步操作了 !
 
-
-# 安装SS插件 让服务器变成SS加速器 妈妈再也不用怕我裸连卡啦!
+# 连接服务器 
 用Xshell 5 连接服务器 会话里选择
 新建-主机(写服务器公网IP)- 然后右边的用户身份验证-用户名root-密码(你自己买的服务器密码)- 确定 
 然后连接即可
-
+看到终端出现 
+[root@******* _centos ~]#
+的时候就代表可以进行下一步操作了 !
 Xshell 5下载:https://share.weiyun.com/52F9uF9
+
+
+# 安装SS插件 让服务器变成SS加速器 妈妈再也不用怕我裸连卡啦!
 
 "wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh"
 
