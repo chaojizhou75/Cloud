@@ -5,8 +5,25 @@
 
 只要打开浏览器输入网址 即可享受雷达!
 
-# 如何搭建雷达?
+# 如何搭建自带加速器的云端雷达?
 (复制时请复制""内的内容)
+
+第一步 
+我们要把自己的服务器变成一个SS代理
+如何操作呢? 复制粘贴以下代码
+如何看代码是否执行完成了 可以进行下一步操作了?
+看到终端出现 [root@******* _centos ~]#的时候就代表可以进行下一步操作了 !
+
+"wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh"
+
+
+
+
+
+
+
+
+
 
 首先在你的服务器终端  
 输入 "yum install git" 
