@@ -8,10 +8,9 @@
 # 如何搭建雷达?
 (复制时请复制""内的内容)
 
-首先在你的服务器终端  安装Github项目服务  
+首先在你的服务器终端  
 输入 "yum install git" 
-
-然后输入Github项目地址 
+ 
 "git clone https://github.com/XiaohuaCN/Cloud-Radar"
 
 "cd Cloud-Radar/"
