@@ -1,3 +1,7 @@
+![image](https://github.com/XiaohuaCN/Cloud-Radar/blob/master/static/assets/1.jpg)
+
+
+
 # Xiaohua 雷达
 都什么年代了 还在使用 虚拟机? 局域网? 两台电脑? 开了加速器就失效的雷达?
 
