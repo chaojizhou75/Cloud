@@ -1,4 +1,4 @@
-![image](https://github.com/XiaohuaCN/Cloud-Radar/blob/master/static/assets/1.jpg)
+![image](https://github.com/XiaohuaCN/Cloud-Radar/blob/master/static/assets/2.Png)
 # 北京时间2018/04/26 更新雷达UI v1.1 支持 手机 浏览器显示 支持iOS 安卓 增加更多的雷达选项
 重新安装雷达即可享受新界面~
 
