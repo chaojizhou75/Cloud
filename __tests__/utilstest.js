@@ -7,4 +7,3 @@ it('convert to friendly name', () => {
   expect(utils.classNameToFriendlyName('Item_Attach_Weapon_Upper_DotSight_01_C\u0000')[0]).toBe('红点')
   expect(utils.classNameToFriendlyName('DroppedItemInteractionComponent\u0000')[0]).toBe('')
 })
-
