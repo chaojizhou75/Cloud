@@ -57,4 +57,3 @@ function processAPawn (buf, actor, repObj, waitingHandle, dataOut) {
 }
 
 module.exports = processAPawn
-
