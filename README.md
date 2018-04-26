@@ -1,6 +1,10 @@
-![image](https://github.com/XiaohuaCN/Cloud-Radar/blob/master/static/assets/2.png)
+![image](https://github.com/XiaohuaCN/Cloud-Radar/blob/master/static/assets/1.jpg)
+
 # 北京时间2018/04/26 更新雷达UI v1.1 支持 手机 浏览器显示 支持iOS 安卓 增加更多的雷达选项
 重新安装雷达即可享受新界面~
+
+![image](https://github.com/XiaohuaCN/Cloud-Radar/blob/master/static/assets/3.png)
+
 
 # Xiaohua 雷达
 都什么年代了 还在使用 虚拟机? 局域网? 两台电脑? 开了加速器就失效的雷达?
