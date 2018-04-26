@@ -1,17 +1,16 @@
+# Xiaohua 雷达
 ![image](https://github.com/XiaohuaCN/Cloud-Radar/blob/master/static/assets/1.jpg)
 
-# 北京时间2018/04/26 更新雷达UI v1.1 支持 手机 浏览器显示 支持iOS 安卓 增加更多的雷达选项
-重新安装雷达即可享受新界面~
-
-![image](https://github.com/XiaohuaCN/Cloud-Radar/blob/master/static/assets/3.png)
-
-
-# Xiaohua 雷达
 都什么年代了 还在使用 虚拟机? 局域网? 两台电脑? 开了加速器就失效的雷达?
 
 醒一醒好吧!现在可是2018年 Cloud 云服务时代
 
 只要打开浏览器输入网址 即可享受雷达!
+
+# 北京时间2018/04/26 更新雷达UI v1.1 支持 手机 浏览器显示 支持iOS 安卓 增加更多的雷达选项
+重新安装雷达即可享受新界面~
+
+![image](https://github.com/XiaohuaCN/Cloud-Radar/blob/master/static/assets/3.png)
 
 # 第一步首先要有个 云服务器 
 供应商自己选 腾讯云 阿里云 主机屋 网易云 等都随便
@@ -26,7 +25,7 @@
 
 4.安全 记得要选择 放通全部端口 不选也可以 之后要各种映射
 
-5。你的服务器必须支持UDP转发
+5.你的服务器必须支持UDP转发
 
 
 # 如何搭建自带加速器的云端雷达?
