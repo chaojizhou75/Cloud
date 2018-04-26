@@ -93,30 +93,30 @@ vapp = new Vue({
         return 0b11111111111111111111111111111111
       }
       let flags = 0
-      // if (this.showItemTop) {
-      //   flags |= 0b1000000000000000
-      // }
-      // if (this.showItemDuoDuo) {
-      //   flags |= 0b0100000000000000 // 雷 水 疼 急
-      // }
-      // if (this.showItemBasic) {
-      //   flags |= 0b0001010100010000 // 基本出装: 穿戴 | 步枪 | 瞄准 | 狙枪
-      // }
-      // if (this.showItemAR) {
-      //   flags |= 0b0000011000000000 // 步枪和配件
-      // }
-      // if (this.showItemSR) {
-      //   flags |= 0b0000000110000000 // 狙击和配件
-      // }
-      // if (this.showItemHealth) {
-      //   flags |= 0b0000100000000000
-      // }
-      // if (this.showItemThrow) {
-      //   flags |= 0b0000000001000000
-      // }
-      // if (this.showItemAmmo) {
-      //   flags |= 0b0000000000100000
-      // }
+       if (this.showItemTop) {
+         flags |= 0b1000000000000000
+       }
+       if (this.showItemDuoDuo) {
+         flags |= 0b0100000000000000 // 雷 水 疼 急
+       }
+       if (this.showItemBasic) {
+         flags |= 0b0001010100010000 // 基本出装: 穿戴 | 步枪 | 瞄准 | 狙枪
+       }
+       if (this.showItemAR) {
+         flags |= 0b0000011000000000 // 步枪和配件
+       }
+       if (this.showItemSR) {
+         flags |= 0b0000000110000000 // 狙击和配件
+       }
+       if (this.showItemHealth) {
+         flags |= 0b0000100000000000
+       }
+       if (this.showItemThrow) {
+         flags |= 0b0000000001000000
+       }
+       if (this.showItemAmmo) {
+         flags |= 0b0000000000100000
+       }
       if (this.showBack) {
         flags |= 0b00000000000000000000000000001000
       }
